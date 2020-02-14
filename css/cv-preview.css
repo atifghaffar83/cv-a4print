@@ -110,12 +110,12 @@ tr {
 }
 
 .bg-border {
-    background-color: #fff;
+    background-color: #fff59d;
 }
 
 .template__quebec__main {
     padding: 40px 0 50px 50px;
-    background-color: #ffee5875;
+    background-color: #fff59d;
 }
 
 .template__professional__main {
@@ -300,7 +300,7 @@ td {
 }
 
 .color--red .template__quebec__column {
-    background: #fdced3;
+    background: #a5d6a7;
 }
 
 .template__quebec__column {
